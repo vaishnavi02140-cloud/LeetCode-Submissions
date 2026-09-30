@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vaishnavi02140-cloud/LeetCode-Submissions/tree/master/0136-single-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vaishnavi02140-cloud/LeetCode-Submissions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vaishnavi02140-cloud/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/vaishnavi02140-cloud/LeetCode-Submissions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 <!---LeetCode Topics End-->
